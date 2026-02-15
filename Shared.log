@@ -1,6 +1,0 @@
-2026-02-14 14:48:46.391 [info] [Shared] Getting Manifest... ritwickdey.liveserver
-2026-02-14 14:48:48.993 [info] [Shared] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/c%3A/Users/AHC/.vscode/extensions/extensions.json","path":"/c:/Users/AHC/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.109.3","date":"2026-02-12T17:54:48.470Z"}}
-2026-02-14 14:49:00.935 [info] [Shared] Extension signature verification result for ritwickdey.liveserver: Success. Internal Code: 0. Executed: true. Duration: 530ms.
-2026-02-14 14:49:17.883 [info] [Shared] Extracted extension to file:///c%3A/Users/AHC/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
-2026-02-14 14:49:19.294 [info] [Shared] Renamed to c:\Users\AHC\.vscode\extensions\ritwickdey.liveserver-5.7.9
-2026-02-14 14:49:19.353 [info] [Shared] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/c%3A/Users/AHC/.vscode/extensions/extensions.json
